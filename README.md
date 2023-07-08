@@ -8,7 +8,7 @@
 ### <div align="center">I am Neo Ditjoe, a full-stack developer student 👨‍💻</div>  
   <br>
 
-- ♟️ I am currently working on [Chess Game](https://github.com/Tirelo-Mputle/chess_game.git)   
+- ♟️ I am currently working on [Blockchain_clone](https://github.com/NeoDitjoe/Blockchain_Clone.git)   
   
 
 -  🏪I am currently working on [Shop-Connect](https://github.com/NeoDitjoe/Shop-Connect.git)   
