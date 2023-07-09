@@ -8,7 +8,7 @@
 ### <div align="center">I am Neo Ditjoe, a Software Engineer student 👨‍💻</div>  
   <br>
 
-- ♟️ I am currently working on [Blockchain_clone](https://github.com/NeoDitjoe/Blockchain_Clone.git)   
+- ♟️ I am currently working on [Blockchain_clone](https://github.com/NeoDitjoe/BlockChain-clone.git)   
   
 
 -  🏪I am currently working on [Shop-Connect](https://github.com/NeoDitjoe/Shop-Connect.git)   
