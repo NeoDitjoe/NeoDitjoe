@@ -11,7 +11,7 @@
 - ♟️ I am currently working on [Blockchain_clone](https://github.com/NeoDitjoe/BlockChain-clone.git)   
   
 
--  🏪I am currently working on [POP CAST](https://github.com/NeoDitjoe/cozy4real_thePopCast.git)   
+-  🏪I am currently working on [PodCast](https://github.com/NeoDitjoe/cozy4real_thePopCast.git)   
   
 
 - 🏂I am currently learning [Dynamic Web Application](https://github.com/NeoDitjoe/DWA.git)  
