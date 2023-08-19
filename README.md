@@ -11,7 +11,7 @@
 - ♟️ I am currently working on [Blockchain_clone](https://github.com/NeoDitjoe/BlockChain-clone.git)   
   
 
--  🏪I am currently working on [Podcast](https://github.com/NeoDitjoe/NEODIT873_BCL2023_Owen_NeoDitjoe_DWA18.git)   
+-  🏪I am currently working on [Podcast](https://github.com/NeoDitjoe/Podcast4real.git)   
   
 
 - 🏂I am currently learning [Dynamic Web Application](https://github.com/NeoDitjoe/DWA.git)  
