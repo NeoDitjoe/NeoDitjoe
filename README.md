@@ -5,7 +5,7 @@
 <br>
   
 
-### <div align="center">I am Neo Ditjoe, a Software Engineer student 👨‍💻</div>  
+### <div align="center">I am Neo Ditjoe, Junior Software Engineer 👨‍💻</div>  
   <br>
 
 - ♟️ I am currently working on [Blockchain_clone](https://github.com/NeoDitjoe/BlockChain-clone.git)   
