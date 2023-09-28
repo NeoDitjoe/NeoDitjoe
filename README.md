@@ -14,7 +14,7 @@
 -  🏪I am currently working on [Podcast](https://github.com/NeoDitjoe/Podcast4real.git)   
   
 
-- 🏂I am currently learning [Dynamic Web Application](https://github.com/NeoDitjoe/DWA.git)  
+- 🏂I am currently learning [Deplyong With Vercel](https://github.com/NeoDitjoe/portfolio)  
   
 
 - 👾I am also learning Unity and C#  
