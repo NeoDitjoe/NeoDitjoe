@@ -8,16 +8,19 @@
 ### <div align="center">I am Neo Ditjoe, Junior Software Engineer 👨‍💻</div>  
   <br>
 
-- ♟️ I am currently working on [Puzzle](https://github.com/NeoDitjoe/puzzle.git)   
+- 🧩I am currently working on [Puzzle](https://github.com/NeoDitjoe/puzzle.git)   
   
 
--  🏪I am currently working on [ecommerce](https://github.com/NeoDitjoe/ecommerce.git)   
+- 🏪I am currently working on [ecommerce](https://github.com/NeoDitjoe/ecommerce.git)   
   
 
-- 🏂I am currently learning [creatingChess](https://github.com/NeoDitjoe/portfolio)  
+- 🏂I am currently learning [creatingChess](https://github.com/NeoDitjoe/chess)  
   
 
 - 👾I am also learning Unity and C#  
+
+
+- 💪Team project [cookBook](https://github.com/CodeSpace-Academy/ASE_2023_GROUP_E.git)
   
 
 <br/>  
