@@ -8,13 +8,13 @@
 ### <div align="center">I am Neo Ditjoe, Junior Software Engineer 👨‍💻</div>  
   <br>
 
-- ♟️ I am currently working on [Blockchain_clone](https://github.com/NeoDitjoe/BlockChain-clone.git)   
+- ♟️ I am currently working on [Puzzle](https://github.com/NeoDitjoe/puzzle.git)   
   
 
--  🏪I am currently working on [Podcast](https://github.com/NeoDitjoe/Podcast4real.git)   
+-  🏪I am currently working on [ecommerce](https://github.com/NeoDitjoe/ecommerce.git)   
   
 
-- 🏂I am currently learning [Deplyong With Vercel](https://github.com/NeoDitjoe/portfolio)  
+- 🏂I am currently learning [creatingChess](https://github.com/NeoDitjoe/portfolio)  
   
 
 - 👾I am also learning Unity and C#  
