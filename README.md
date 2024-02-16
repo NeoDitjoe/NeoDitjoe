@@ -1,11 +1,11 @@
+
+### <div align="center">I am Neo Ditjoe, Junior Software Engineer 👨‍💻</div>  
+  
+<br>
+
 <div align="center">
 <img src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
 </div>  
-
-<br>
-  
-
-### <div align="center">I am Neo Ditjoe, Junior Software Engineer 👨‍💻</div>  
   <br>
 
 - 🧩I am currently working on [Puzzle](https://github.com/NeoDitjoe/puzzle.git)   
@@ -58,7 +58,8 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://www.bleepstatic.com/content/hl-images/2023/12/16/mongodb-header-o.jpg" alt="React" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.bleepstatic.com/content/hl-images/2023/12/16/mongodb-header-o.jpg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=1000&h=667&fit=clip&auto=format" alt="React" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="50%">
